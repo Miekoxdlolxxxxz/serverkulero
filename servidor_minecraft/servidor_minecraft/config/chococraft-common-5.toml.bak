@@ -1,0 +1,14 @@
+Chocobo = {}
+
+#Spawning configuration
+[spawning]
+	#Controls Chocobo Spawn Weight [Default: 10]
+	#Range: > 0
+	chocoboSpawnWeight = 10
+	#Controls Chocobo Pack Size Min [Default: 1]
+	#Range: > 0
+	chocoboPackSizeMin = 1
+	#Controls Chocobo Pack Size Max [Default: 3]
+	#Range: > 0
+	chocoboPackSizeMax = 3
+
